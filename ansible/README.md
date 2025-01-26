@@ -1,0 +1,1 @@
+# Deploy Blnk-finance application via ansible
